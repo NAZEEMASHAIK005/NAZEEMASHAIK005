@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazeemashaik005" alt="nazeemashaik005" /></a> </p>
 
-- 🔭 I’m currently working on **Kubernates**
-
-- 🌱 I’m currently learning **Devops with aws**
+- 💬I recently completed a course **Devops with aws**
 
 - 👯 I’m looking to collaborate on **Cloud native projects**
 
 - 🤝 I’m looking for help with **Devops**
 
-- 💬 Ask me about **Devops,aws**
+- Ask me about **Devops,aws**
 
 - 📫 How to reach me **naziya1016@gmail.com**
 
