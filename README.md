@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazeemashaik005" alt="nazeemashaik005" /></a> </p>
 
-- 💬I recently completed a course **Devops with aws**
+- 💬I recently completed a course in **Devops with aws**
 
 - 👯 I’m looking to collaborate on **Cloud native projects**
 
