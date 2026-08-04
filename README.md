@@ -5,7 +5,7 @@
 ### 📄 My Resume
 
 <p>
-  <a href="link-to-your-resume-pdf">
+  <a href="Nazeema_Shaik_ CV (2).pdf">
     <img src="https://img.shields.io/badge/DOWNLOAD_CV_PDF-E34C26?style=for-the-badge&logo=readdotcv&logoColor=white" />
   </a>
 </p>
