@@ -1,13 +1,9 @@
-<h3 align="center">DevOps & Cloud Engineer</h3>
+
+<h1 align="center">Hi there 👋 I'm Nazeema Shaik</h1><h3 align="center">DevOps & Cloud Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=AWS;Terraform;Ansible;Kubernetes;Jenkins;Docker;Python" alt="Typing SVG" />
 </p>
-
----
-[04-08-2026 11:21] Naziya: <h1 align="center">Hi there 👋 I'm Nazeema Shaik</h1>
-
-<h3 align="center">DevOps & Cloud Engineer</h3>
 
 ---
 
