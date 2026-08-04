@@ -7,7 +7,7 @@
 </p>
 
 
-[Profile Views](https://komarev.com/ghpvc/?username=NAZEEMASHAIK005&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=NAZEEMASHAIK005&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 
 
