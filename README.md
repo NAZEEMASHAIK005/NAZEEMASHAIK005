@@ -1,4 +1,3 @@
-
 <h3 align="center">DevOps & Cloud Engineer</h3>
 
 <p align="center">
@@ -9,10 +8,6 @@
 [04-08-2026 11:21] Naziya: <h1 align="center">Hi there 👋 I'm Nazeema Shaik</h1>
 
 <h3 align="center">DevOps & Cloud Engineer</h3>
-
-<p align="center">
-  <code>AWS</code> | <code>Terraform</code> | <code>Ansible</code> | <code>Kubernetes</code> | <code>Jenkins</code>
-</p>
 
 ---
 
