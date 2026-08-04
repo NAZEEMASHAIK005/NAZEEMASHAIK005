@@ -1,8 +1,4 @@
-
-### 📫 Connect with Me
-
-[LinkedIn](your-linkedin-url) • [Gmail](mailto:naziya1016@gmail.com) • [GitHub](your-github-url)
-[04-08-2026 12:25] Naziya: <h1 align="center">Hi there 👋 I'm Nazeema Shaik</h1>
+ <h1 align="center">Hi there 👋 I'm Nazeema Shaik</h1>
 
 <h3 align="center">DevOps & Cloud Engineer</h3>
 
@@ -25,17 +21,6 @@
   </a>
 </p>
 
-### 🛠️ Languages and Tools:
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,kubernetes,jenkins,docker,python,linux,git" />
-</p>
-<h1 align="center">Hi there 👋 I'm Nazeema Shaik</h1><h3 align="center">DevOps & Cloud Engineer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=AWS;Terraform;Ansible;Kubernetes;Jenkins;Docker;Python" alt="Typing SVG" />
-</p>
-
----
 
 ### 👩‍💻 About Me
 
@@ -93,17 +78,3 @@ Monitoring & Languages
 </p>
 
 ---
-
-### 📫 Connect with Me
-
-<p>
-  <a href="https://www.linkedin.com/in/nazeema-shaik-409702322">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:naziya1016@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/NAZEEMASHAIK005">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
