@@ -59,12 +59,10 @@ Monitoring & Languages
 
 ### 📄 My Resume
 
-[Download CV](PK
+[Download CV](PK)
 
 ---
 
 ### 📫 Connect with Me
 
-[LinkedIn](www.linkedin.com/in/nazeema-shaik-409702322
-
-) • [Gmail](mailto:naziya1016@gmail.com) • [GitHub](https://github.com/NAZEEMASHAIK005/NAZEEMASHAIK005.git)
+[LinkedIn](www.linkedin.com/in/nazeema-shaik-409702322) • [Gmail](mailto:naziya1016@gmail.com) • [GitHub](https://github.com/NAZEEMASHAIK005/NAZEEMASHAIK005.git)
