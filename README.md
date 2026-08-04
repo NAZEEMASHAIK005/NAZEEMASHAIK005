@@ -6,8 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=AWS;Terraform;Ansible;Kubernetes;Jenkins;Docker;Python" alt="Typing SVG" />
 </p>
 
----
-[04-08-2026 12:49] Naziya: ![Profile Views](https://komarev.com/ghpvc/?username=NAZEEMASHAIK005&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+
+[Profile Views](https://komarev.com/ghpvc/?username=NAZEEMASHAIK005&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 
 
